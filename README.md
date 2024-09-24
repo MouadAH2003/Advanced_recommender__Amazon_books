@@ -84,7 +84,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/Advanced_recommender-PFA.git
+    git clone https://github.com/yourusername/Advanced_recommender__Amazon_books.git
     cd Advanced_recommender-PFA
     ```
 
